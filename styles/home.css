@@ -177,12 +177,17 @@ html, body{
 }
 
 .album-card {
-    margin-inline: 1.5vw;
+    margin-inline: 0.8vw;
     margin-bottom: 1.5vw;
 }
 .album-card img {
     max-width: 8vw;
     border-radius: 0.3vw;
-    
+    transition: all 0.2s;
+}
+
+.album-card img:hover {
+    max-width: 9vw;
+    border-radius: 0.3vw;
 }
 
