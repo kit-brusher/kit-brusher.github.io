@@ -181,13 +181,13 @@ html, body{
     margin-bottom: 1.5vw;
 }
 .album-card img {
-    max-width: 8vw;
+    max-width: 10vw;
     border-radius: 0.3vw;
     transition: all 0.2s;
 }
 
 .album-card img:hover {
-    max-width: 9vw;
+    max-width: 11vw;
     border-radius: 0.3vw;
 }
 
